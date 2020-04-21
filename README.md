@@ -1,2 +1,2 @@
-# Next-Starter-
-Starting point for my next projects
+# Portfolio as of April 2020
+Built on Next.js
